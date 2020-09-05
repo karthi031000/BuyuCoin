@@ -1,0 +1,10 @@
+.as{
+    background-image: url("images/1.jpg");
+    height: 960px;
+    width: auto;
+    background-repeat: no-repeat;
+}
+.lap{
+    margin-top: 20px;
+    margin-left: 150px;
+}
